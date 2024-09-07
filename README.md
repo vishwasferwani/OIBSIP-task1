@@ -1,2 +1,2 @@
 # OIBSIP-task1
-Task1 of OIBSIP python internship 
+Voice assistant: task1 of OIBSIP python internship 
